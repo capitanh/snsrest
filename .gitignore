@@ -1,0 +1,15 @@
+.classpath
+.project
+.gradle/
+.settings/
+build
+mods
+core/build
+core/.settings
+restapi/build
+restapi/.settings
+snsclient/build
+snsclient/.settings
+deployer/build
+deployer/.settings
+/bin/

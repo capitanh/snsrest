@@ -1,0 +1,5 @@
+{
+	"description" : "Mobile push notifications REST API",
+	"main" : "net.mikasa.snsrest.Main",
+	"auto-redeploy" : true
+}

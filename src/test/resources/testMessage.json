@@ -1,0 +1,7 @@
+{
+   "platform":"GCM",
+   "serverApiKey":"AIzaSyAbyaAs_mFLOF2YyA7gOtmZQvJGA3tORvc",
+   "platformToken":"fQxnlOpF1Bk:APA91bEwRIZJZfqGG1UppFOAVTGO6ZQHSd_YUDthTyvTK1r_qG3Klcyhx7SJIZtcLVwKal9sa6wYUrgUoIyVqeUXoPbf8sHzpsfPSI4SBEW1CEPIwItVpJKltC9ADQ-qgBoswpZi34Ia",
+   "applicationName":"default-demo-app-",
+   "payload":"This is the message text"
+}

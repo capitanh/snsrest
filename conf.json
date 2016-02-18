@@ -1,0 +1,11 @@
+{
+	"net.mikasa.snsrest.verticle.FrontVerticle":
+	{
+		"port": 8080,
+		"pushNotificationURI": "/pushNotification",
+		"platformEndpointURI": "/platformEndpoint",
+		"pushNotificationFileProcessURI" : "/pushNotificationFileProcess",
+		"pushNotificationFeedbackURI" : "/pushNotificationFeedback",
+		"platformFeedbackURI" : "/platformFeedback"  
+	}
+}
